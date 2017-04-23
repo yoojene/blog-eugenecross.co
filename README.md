@@ -1,2 +1,2 @@
 # blog-eugenecross.co
-Blog for eugenecross.co.  Using Hugo
+Hugo blog for eugenecross.co. 
