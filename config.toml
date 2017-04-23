@@ -1,0 +1,11 @@
+baseurl = "http://www.eugenecross.co/blog"
+languageCode = "en"
+title = "Blog"
+author = "yoojene"
+copyright = "Eugene Cross All rights reserved."
+
+[params]
+  logo      = "/img/sketchface.jpg"
+  twitter   = "https://twitter.com/yoojene"
+  github    = "https://github.com/yoojene/"
+  email     = "eugene.cross@gmail.com"
