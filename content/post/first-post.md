@@ -10,3 +10,8 @@ Hello there, yes I've finally gotten round to putting my thoughts on the Interwe
 The main reason for my newly found impetus is to blog more about my work, the technologies I use and the projects I work on.  However, to mix it up  I expect I will be musing about my other non coding interests from time to time.
 
 Well if you've continued to read this so far, then thanks and long may it continue!  Feel free to get in touch with me on the usual channels :-)
+
+``` var foo; 
+    var bar ```
+
+![GitHub Logo](/images/profile.png)

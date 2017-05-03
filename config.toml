@@ -1,11 +1,12 @@
-baseurl = "http://www.eugenecross.co/blog"
+baseurl = "http://localhost:1313"
 languageCode = "en"
 title = "Blog"
 author = "yoojene"
 copyright = "Eugene Cross All rights reserved."
+theme = "hugo-zen"
 
 [params]
-  logo      = "/img/sketchface.jpg"
+  logo      = "/images/sketchface.jpg"
   twitter   = "https://twitter.com/yoojene"
   github    = "https://github.com/yoojene/"
   email     = "eugene.cross@gmail.com"
